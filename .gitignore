@@ -1,0 +1,4 @@
+myn-back/node_modules
+myn-front/node_modules
+
+myn-back/.env
